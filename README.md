@@ -1,7 +1,7 @@
 # Project Name
 
 Brief description of the project.
-bug-fix-typo
+bug fix typo
 
 ## Table of Contents
 
